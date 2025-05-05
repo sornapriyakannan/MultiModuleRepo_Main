@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/sornapriyakannan/MultiModuleRepo_Frontend.git
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/sornapriyakannan/MultiModuleRepo_Backend.git
